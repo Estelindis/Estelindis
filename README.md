@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Estelindis.
+- 🌱 I attained a diploma in software development with the Code Institute.
 - 👀 I’m interested in creating and improving games with a strong narrative.
-- 🌱 I’m currently learning software development with the Code Institute.
 - 💞️ I’m looking to collaborate on identifying and applying skills that are important for story-based games.
 - 📫 How to reach me: estelindis@gmail.com.
 
